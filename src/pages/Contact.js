@@ -6,16 +6,7 @@ function Contact() {
   return (
     <section className={styles.contact}>
       <div className={styles.padding}></div>
-      <a href={cv} download>
-        <button className={styles.btnCV}>
-          Download CV
-          <i
-            className="fa fa-download"
-            aria-hidden="true"
-            style={{ fontSize: "24px" }}
-          ></i>
-        </button>
-      </a>
+      <h1 className={styles.header}>Contact Me</h1>
       <div className="row">
         <div className={styles.display}>
           <div className={styles.socials}>
@@ -117,6 +108,16 @@ function Contact() {
             </ul>
           </div>
         </div>
+        <a href={cv} download>
+        <button className={styles.btnCV}>
+          Download CV
+          <i
+            className="fa fa-download"
+            aria-hidden="true"
+            style={{ fontSize: "24px" }}
+          ></i>
+        </button>
+      </a>
       </div>
     </section>
   );

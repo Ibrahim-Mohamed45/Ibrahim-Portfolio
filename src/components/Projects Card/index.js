@@ -4,7 +4,7 @@ import "./style.css";
 
 function ProjectsCard(props) {
   return (
-    <div className="row" style={{ marginBottom: "2em !important" }}>
+    <div className="row">
       <div className="col-lg-5 col-sm-12">
         <h3>{props.title}</h3>
         <div>
@@ -32,6 +32,7 @@ function ProjectsCard(props) {
           <img alt={props.title} className="img-fluid" src={props.image} />
         </a>
       </div>
+      <div style={{marginBottom:'2rem'}}></div>
     </div>
   );
 }

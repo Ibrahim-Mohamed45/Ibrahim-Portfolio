@@ -1,48 +1,48 @@
 [
   {
     "id": 1,
+    "title": "News Pal",
+    "description": "A group project where we created a news application that allows users to choose their preferences and have their own personalised news feed. My role was login and sign up functionality (user authentication), user profile and preferences and setting up firebase database to store user preferences.",
+    "tools": "Firebase, React Router, React, CSS, Bootstrap",
+    "image": "https://raw.githubusercontent.com/Ibrahim-Mohamed45/React-Portfolio/main/src/images/Project-1.png",
+    "github": "https://github.com/Ibrahim-Mohamed45/News-Pal",
+    "live": "https://news-pal-45.web.app/"
+  },
+  {
+    "id": 2,
+    "title": "Hoobank Landing Page",
+    "description": "This application is a modern UI/UX website. It's consists of a stunning hero section, high-quality assets, gradients, and more.",
+    "tools": "React, Tailwind",
+    "image": "https://raw.githubusercontent.com/Ibrahim-Mohamed45/React-Portfolio/main/src/images/Project-2.png",
+    "github": "https://github.com/Ibrahim-Mohamed45/Hoobank-Landing-Page",
+    "live": "https://hoobank-ibrahim.netlify.app/"
+  },
+  {
+    "id": 3,
     "title": "Weather Dashboard",
     "description": "This application is a weather dashboard that allows users to check the current weather for an inputted city as well as a 5 day forecast.",
     "tools": "HTML, CSS, Bootstrap, JavaScript, jQuery, Moment.js, OpenWeather API",
-    "image": "https://raw.githubusercontent.com/Ibrahim-Mohamed45/React-Portfolio/main/src/images/Project-2.png",
+    "image": "https://raw.githubusercontent.com/Ibrahim-Mohamed45/React-Portfolio/main/src/images/Project-3.png",
     "github": "https://github.com/Ibrahim-Mohamed45/Weather-Forecast-Dashboard",
     "live": "https://ibrahim-mohamed45.github.io/Weather-Forecast-Dashboard/"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "Rock Paper Scissors",
     "description": "This application is a rock paper scissors game where you play against the computer and the first to score 5 points wins.",
     "tools": "HTML, Tailwind CSS, Javascript",
-    "image": "https://raw.githubusercontent.com/Ibrahim-Mohamed45/React-Portfolio/main/src/images/Project-3.png",
+    "image": "https://raw.githubusercontent.com/Ibrahim-Mohamed45/React-Portfolio/main/src/images/Project-4.png",
     "github": "https://github.com/Ibrahim-Mohamed45/Rock-Paper-Scissors",
     "live": "https://ibrahim-mohamed45.github.io/Rock-Paper-Scissors/"
   },
   {
-    "id": 3,
-    "title": "Find My Band",
-    "description": "This application finds out if your favourite musician/artist/band is having a concert near you and how to get there.",
-    "tools": "HTML5, CSS3, Bootstrap, Javascript, Concerts - Artists Events Tracker API, Geoapify Routing API, Mapbox API",
-    "image": "https://raw.githubusercontent.com/Ibrahim-Mohamed45/React-Portfolio/main/src/images/Project-1.png",
-    "github": "https://github.com/Ibrahim-Mohamed45/Find-My-Band",
-    "live": "https://jayclay922.github.io/Find-My-Band/index.html"
-  },
-  {
-    "id": 4,
+    "id": 5,
     "title": "Timed Code Quiz",
     "description": "This application is a timed coding quiz with multiple-choice questions on javascript.",
     "tools": "HTML, CSS, Javascript",
-    "image": "https://raw.githubusercontent.com/Ibrahim-Mohamed45/React-Portfolio/main/src/images/Project-4.png",
+    "image": "https://raw.githubusercontent.com/Ibrahim-Mohamed45/React-Portfolio/main/src/images/Project-5.png",
     "github": "https://github.com/Ibrahim-Mohamed45/Timed-Code-Quiz",
     "live": "https://ibrahim-mohamed45.github.io/Timed-Code-Quiz/"
-  },
-  {
-    "id": 5,
-    "title": "Work Day Scheduler",
-    "description": "This application is a simple calendar app that allows the user to save events for each hour of the work day.",
-    "tools": "HTML, CSS, Bootstrap, JavaScript, jQuery, Day.js",
-    "image": "https://raw.githubusercontent.com/Ibrahim-Mohamed45/React-Portfolio/main/src/images/Project-5.png",
-    "github": "https://github.com/Ibrahim-Mohamed45/Work-Day-Scheduler",
-    "live": "https://ibrahim-mohamed45.github.io/Work-Day-Scheduler/"
   },
   {
     "id": 6,

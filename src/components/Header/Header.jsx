@@ -8,7 +8,7 @@ function Header() {
       <ul>
         <li>
           <NavLink
-            to="/Ibrahim-Portfolio"
+            to="/"
             end
             className={({ isActive }) =>
               isActive ? styles.active : styles.inactive
@@ -19,7 +19,7 @@ function Header() {
         </li>
         <li>
           <NavLink
-            to="Ibrahim-Projects"
+            to="My-Projects"
             end
             className={({ isActive }) =>
               isActive ? styles.active : styles.inactive
@@ -30,7 +30,7 @@ function Header() {
         </li>
         <li>
           <NavLink
-            to="Contact-Ibrahim"
+            to="Contact-Me"
             end
             className={({ isActive }) =>
               isActive ? styles.active : styles.inactive
